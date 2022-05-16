@@ -1,0 +1,7 @@
+flask
+numpy
+scipy
+scikit-learn
+pandas
+google-cloud-storage
+SpeechRecognition 
